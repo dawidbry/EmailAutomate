@@ -1,0 +1,8 @@
+control_number,email_control_owner,control_name,documentation,date,period
+RTR-1,john.stevens@company.com,Lease Reconciliation Process,SAP to LAS comparison,10.01.2024,Q4 2023
+RTR-2,monica.ruppert@company.com,Leases - Asset Strategies,Updated Asset Strategy Papers by Lease Accounting,15.01.2024,Q4 2023
+OTC-10,michelle.janowski@company.com,Deferred Revenue (Exposure Analysis),Evidence the reports/schedules were validated for completeness and accuracy,05.01.2024,November 2023
+PR-7,david.johnson@company.com,Actuary Employee Data Review,Reconciliation performed between Data Review file and file from SAP HR, 20.01.2024, 2023
+PR-8,inga.richardson@company.com,Actuary Assumptions Setting and Review,Explanation of quantitative and/or qualitative criteria to identify an exception,10.01.2024,Q4 2023
+PR-9,joanna.kowalska@company.com,Actuary Data Review - Poland,Participants data file sent to Actuaries,12.01.2024,December 2023
+INV-22,emanuel.cristaldi@company.com,Inventory Observation Check for Outside Storage Locations,Check of inventory reconciliation between SAP data and Storage Owner,01.02.2024,2023
