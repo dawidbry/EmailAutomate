@@ -1,0 +1,2 @@
+The project was created for real needs at work related to sending a request for documentation to SOX audit, which takes place twice a year. Each time, approximately 240 e-mails are sent with a request to send documentation to the indicated control by a given Control Owner and on a specified date and for a specific period of the financial year. This script allowed us to automate the sending of such a large number of repetitive emails.
+
